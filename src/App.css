@@ -1,0 +1,22 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Styling for loading state */
+.loading {
+  color: #007bff;
+  font-size: 18px;
+}
+
+/* Styling for error state */
+.error {
+  color: #dc3545;
+  font-size: 18px;
+}
+
+/* Styling for data state */
+.data {
+  color: #28a745;
+  font-size: 16px;
+}
